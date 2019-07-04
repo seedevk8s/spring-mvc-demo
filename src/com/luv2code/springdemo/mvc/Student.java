@@ -17,6 +17,8 @@ public class Student {
 		countyOptions.put("FR", "France");
 		countyOptions.put("DE", "Germany");
 		countyOptions.put("IN", "India");
+		countyOptions.put("US", "United Stats of America");
+		countyOptions.put("KR", "Republic of Korea");
 		
 	}
 
